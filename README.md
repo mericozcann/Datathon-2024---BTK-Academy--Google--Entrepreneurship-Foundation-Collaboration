@@ -1,5 +1,6 @@
 # Datathon 2024: Evaluation Score Prediction
 ## Competition Link: https://www.kaggle.com/competitions/datathon-2024/overview
+## Project Link: https://www.kaggle.com/code/merizcan/datathon-2024-evaluation-score-prediction/notebook
 ## Project Overview
 This project is part of Datathon 2024, focusing on predicting the "Degerlendirme Puani" (Evaluation Score) for a set of applicants. The provided dataset includes anonymized information on applicants from the Girişimcilik Vakfı, ranging from personal background to educational and socio-economic data.
 The task involves building predictive models that estimate the missing evaluation scores for a group of 11,049 applicants from the year 2023. The evaluation metric for this competition is Root Mean Square Error (RMSE).
@@ -42,6 +43,7 @@ This project demonstrated the power of using ensemble models with careful prepro
 
 # Datathon 2024: Değerlendirme Puanı Tahmini
 ## Yarışma Bağlantısı: https://www.kaggle.com/competitions/datathon-2024/overview
+## Proje Linki: https://www.kaggle.com/code/merizcan/datathon-2024-evaluation-score-prediction/notebook
 ## Proje Genel Bakışı
 Bu proje, bir dizi başvuru sahibi için "Değerlendirme Puanı"nı (Evaluation Score) tahmin etmeye odaklanan Datathon 2024'ün bir parçasıdır. Sağlanan veri seti, Girişimcilik Vakfı'ndan başvuru sahiplerine ait kişisel geçmişten eğitim ve sosyo-ekonomik verilere kadar anonimleştirilmiş bilgiler içerir.
 Görev, 2023 yılından itibaren 11.049 başvuru sahibinden oluşan bir grup için eksik değerlendirme puanlarını tahmin eden tahmini modeller oluşturmayı içerir. Bu yarışma için değerlendirme metriği Root Mean Square Error'dur (RMSE).
